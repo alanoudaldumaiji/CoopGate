@@ -88,12 +88,6 @@ CoopGate was developed using the **Agile Scrum methodology** across three sprint
 
 ---
 
-## 🖥️ System Screenshots
-
-Screenshots of the Student, University Supervisor, and COOP Coordinator dashboards, along with the platform's key features, will be added here.
-
----
-
 ## 🏗️ System Architecture
 
 The project includes system architecture diagrams, database design, use case diagrams, class diagrams, and sequence diagrams documenting the platform's structure and workflows.
