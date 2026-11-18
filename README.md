@@ -122,3 +122,29 @@ CoopGate was presented at the Prince Sultan University Senior Project Expo, show
 
 
 ### 💙 CoopGate — From a Scattered Process to a Seamless COOP Journey.
+
+---
+
+## 🖥️ System Screenshots
+
+Explore the key interfaces and functionalities of CoopGate.
+
+### 1. Student, Supervisor & Coordinator Dashboards
+
+![CoopGate Dashboards](screenshots/IMG_6922.jpeg)
+
+### 2. Student Progress & Risk Monitoring
+
+![Progress and Risk Monitoring](screenshots/IMG_6920.jpeg)
+
+### 3. Submissions & Notifications
+
+![Submissions and Notifications](screenshots/IMG_6921.jpeg)
+
+### 4. AI-Powered COOP Assistant
+
+![AI COOP Assistant](screenshots/IMG_6926.jpeg)
+
+### 5. System Architecture
+
+![CoopGate System Architecture](screenshots/IMG_6927.jpeg)
