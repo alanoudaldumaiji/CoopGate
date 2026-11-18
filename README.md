@@ -124,7 +124,7 @@ Explore the key interfaces and functionalities of CoopGate.
 
 Watch our promotional video to discover how CoopGate transforms the cooperative training experience.
 
-[▶️ Watch the CoopGate Promotional Video](VIDEO_LINK)
+[▶️ Watch the CoopGate Promotional Video](copy_4B5E2C59-4AA6-49A9-9117-18B54179A204-2.mov)
 
 
 ## 🎓 Senior Project Expo
