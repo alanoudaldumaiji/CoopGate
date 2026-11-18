@@ -131,15 +131,15 @@ Explore the key interfaces and functionalities of CoopGate.
 
 ### 1. Student, Supervisor & Coordinator Dashboards
 
-![CoopGate Dashboards](screenshots/IMG_6921.jpeg)
+![CoopGate Dashboards](screenshots/IMG_6920.jpeg)
 
 ### 2. Student Progress & Risk Monitoring
 
-![Progress and Risk Monitoring](screenshots/IMG_6922.jpeg)
+![Progress and Risk Monitoring](screenshots/IMG_6921.jpeg)
 
 ### 3. Submissions & Notifications
 
-![Submissions and Notifications](screenshots/IMG_6920.jpeg)
+![Submissions and Notifications](screenshots/IMG_6922.jpeg)
 
 ### 4. AI-Powered COOP Assistant
 
