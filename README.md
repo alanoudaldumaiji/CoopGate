@@ -118,6 +118,15 @@ Explore the key interfaces and functionalities of CoopGate.
 
 ![CoopGate System Architecture](screenshots/IMG_6927.jpeg)
 
+---
+
+## 🎬 CoopGate Promotional Video
+
+Watch our promotional video to discover how CoopGate transforms the cooperative training experience.
+
+[▶️ Watch the CoopGate Promotional Video](VIDEO_LINK)
+
+
 ## 🎓 Senior Project Expo
 
 CoopGate was presented at the Prince Sultan University Senior Project Expo, showcasing the platform's capabilities and demonstrating its potential to improve cooperative training management.
